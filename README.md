@@ -6,9 +6,9 @@ I'm a programming student, gamer, clouds lover and a passionate guy.<br>
 - 👾 Have steam?! Add me -> [Nikolaizq](steamcommunity.com/id/nikolaizq)
 - 🧐 Dreaming to be a FullStack Developer
 
-##### Languages learned
+#### Languages learned
 - [x] C <br>
-- [ ] C# <br>
+- [x] C# <br>
 - [ ] JS <br>
 - [ ] Phyton <br>
 - [ ] C++ <br>
