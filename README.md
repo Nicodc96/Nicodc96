@@ -8,7 +8,7 @@ I'm a programming student, gamer, clouds lover and a passionate guy.<br>
 
 #### Languages learned
 - [x] C <br>
-- [x] C# <br>
+- [ ] C# <br>
 - [ ] JS <br>
 - [ ] Phyton <br>
 - [ ] C++ <br>
