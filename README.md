@@ -2,7 +2,7 @@
 I'm a programming student!<br>
 
 - 🌱 I’m currently learning C# on UTN FRA
-- 👾 Have steam?! Add me -> [Nikolaizq](steamcommunity.com/id/nikolaizq)
+- 👾 Have steam?! Add me -> [Nikolaizq](http://steamcommunity.com/id/nikolaizq)
 - 🧐 Dreaming to be a FullStack Developer
 
 #### Languages learned
