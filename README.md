@@ -1,6 +1,6 @@
 ## Hello World 👋! I'm [Nicolas](http://github.com/Nicodc96) and welcome to my profile.
 <br>
-I'm a programming student, i'm 26 years old and love computing world.<br>
+I'm a programming student, i'm 26 years old and love computing world.<br><br>
 
 - 🌱 I’m currently learning PHP on UTN FRA
 - 🧐 Dreaming to be a Senior Backend Developer
