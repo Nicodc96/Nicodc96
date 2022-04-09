@@ -14,7 +14,7 @@ I'm a programming student, i'm 26 years old and love computing world.<br><br>
 - [x] C <br>
 - [x] C# <br>
 - [ ] PHP <br>
-- [ ] Node.js <br>
+- [ ] JavaScript <br>
 
 ### Frameworks
 - [x] .NET Core <br>
