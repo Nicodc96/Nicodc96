@@ -6,7 +6,7 @@ I'm a programming student, i'm 26 years old and love computing world.<br><br>
 - 🧐 Dreaming to be a Senior Backend Developer
 
 ### Social networks <br>
-![](https://i.ibb.co/cyzj5NL/linkedin-mini.png) [LinkedIn](www.linkedin.com/in/lautarondiaz/) <br>
+![](https://i.ibb.co/cyzj5NL/linkedin-mini.png) [LinkedIn](https://www.linkedin.com/in/lautarondiaz/) <br>
 ![](https://i.ibb.co/j5KQ1mH/instagram-mini.png) [Instagram](https://www.instagram.com/nikofrkz/) <br>
 ![](https://i.ibb.co/fSmFBLm/steam-mini.png) [Nikolaizq](http://steamcommunity.com/id/nikolaizq/)
 
