@@ -3,7 +3,7 @@
   <h2>Hello World 👋! I'm <a href="http://github.com/Nicodc96">Nicolás.</a> Welcome to my profile.</h2>
   <p align="center">I'm a programming student, i'm 26 years old and love computing world.</p>
   <p align="center">
-  <li>🌱 I’m currently learning PHP on UTN FRA </li>
+  <li>🌱 I’m currently learning HTML, CSS, JS & Node.js on UTN FRA </li>
   <li>🧐 Dreaming to be a Senior Backend Developer </li>
   <li>💻 Always in search of new knowledge and tools </li>
   </p>
