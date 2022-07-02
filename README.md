@@ -13,7 +13,7 @@
 <h2 align="center">Social networks & Contact</h2>
   <p align="center">
     <a href="https://www.linkedin.com/in/lautarondiaz/"><img src="https://i.ibb.co/mvxLdDX/linkedin.png" widht="36px" height="36px"/></a>
-    <a href="https://www.instagram.com/nikofrkz/"><img src="https://i.ibb.co/FYLPh4K/instagram.png" widht="36px" height="36px"/></a>
+    <a href="https://www.instagram.com/nikofrkz/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" widht="36px" height="36px"/></a>
     <a href="http://steamcommunity.com/id/nikolaizq/"><img src="https://i.ibb.co/C9SCxfg/steam.png" widht="36px" height="36px"/></a>
     <a href="https://open.spotify.com/user/nikozq"><img src="https://i.ibb.co/DpRhGHC/spotify-logo-png-7053.png" widht="36px" height="36px"/></a>
     <a href="https://discordapp.com/users/371068600146198528"><img src="https://i.ibb.co/n1YcSv4/discord.png" widht="36px" height="36px"/></a>
