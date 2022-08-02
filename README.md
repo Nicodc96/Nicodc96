@@ -3,7 +3,7 @@
   <h2>Hello World 👋! I'm <a href="http://github.com/Nicodc96">Nicolás.</a> Welcome to my profile.</h2>
   <p align="center">I'm a programming student, i'm 26 years old and love computing world.</p>
   <p align="center">
-  <li>🌱 I’m currently learning HTML, CSS, JS & Node.js on UTN FRA </li>
+  <li>🌱 I’m currently learning FrontEnd Basic Skills & Node.js on UTN FRA </li>
   <li>🧐 Dreaming to be a Senior Backend Developer </li>
   <li>💻 Always in search of new knowledge and tools </li>
   </p>
@@ -22,19 +22,24 @@
 </div>
 
 <div>
-<h2 align="center">Backend tech stack</h2>
+<h2 align="center">Tools</h2>
   <p align="center">
-    <a href="https://www.w3schools.com/c/index.php/"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40px" height="40px"></a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40px" height="40px"/></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/core/introduction"><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40px" height="40px"/></a>
     <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40px" height="40px"/></a>
-    <a href="https://www.php.net/manual/es/index.php"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px" height="40px"/></a>
-  </p>
-  <h2 align="center">Frontend tech stack</h2>
-  <p align="center">
-  <a href="https://html.spec.whatwg.org/multipage/"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" height="40px"/></a>
+    <a href="https://html.spec.whatwg.org/multipage/"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" height="40px"/></a>
     <a href="https://www.w3.org/Style/CSS/"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40px" height="40px"/></a>
+    <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40px" height="40px"/></a>
+    <a href="https://www.postman.com/"><img src="https://i.ibb.co/3CvzcQ3/postman-icon.png" width="40px" height="40px"/></a>
+    <a href="https://visualstudio.microsoft.com/es/"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" height="40px"/></a>
+  </p>
+  
+  <h2 align="center">Languages</h2>
+  <p align="center">
+  <a href="https://www.w3schools.com/c/index.php/"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40px" height="40px"></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40px" height="40px"/></a>
+  <a href="https://www.php.net/manual/es/index.php"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px" height="40px"/></a>
     <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px"/></a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/core/introduction"><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40px" height="40px"/></a>
+    
   </p>
 </div>
 
