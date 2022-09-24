@@ -31,6 +31,7 @@
     <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40px" height="40px"/></a>
     <a href="https://www.postman.com/"><img src="https://i.ibb.co/3CvzcQ3/postman-icon.png" width="40px" height="40px"/></a>
     <a href="https://visualstudio.microsoft.com/es/"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" height="40px"/></a>
+    <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="40px"/></a>
   </p>
   
   <h2 align="center">Languages</h2>
@@ -38,7 +39,7 @@
   <a href="https://www.w3schools.com/c/index.php/"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40px" height="40px"></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40px" height="40px"/></a>
   <a href="https://www.php.net/manual/es/index.php"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px" height="40px"/></a>
-    <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px"/></a>
+    <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45px" height="40px"/></a>
     
   </p>
 </div>
