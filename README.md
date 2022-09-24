@@ -1,11 +1,13 @@
 
 <div align="center">
-  <h2>Hello World 👋! I'm <a href="http://github.com/Nicodc96">Nicolás.</a> Welcome to my profile.</h2>
-  <p align="center">I'm a programming student, i'm 26 years old and love computing world.</p>
-  <p align="center">
-  <li>🌱 I’m currently learning FrontEnd Basic Skills & Node.js on UTN FRA </li>
-  <li>🧐 Dreaming to be a Senior Backend Developer </li>
-  <li>💻 Always in search of new knowledge and tools </li>
+  <h2>Hello World 👋! I'm <a href="http://github.com/Nicodc96">Nicolás.</a> Welcome to my profile!</h2>
+  <p align="left">I'm a programming student, i'm 26 years old and love computing world.</p>
+  <p>
+  <ul align="left">
+  <li>🌱 I’m currently learning FrontEnd tools & Node.js on UTN FRA</li>
+  <li>🧐 Dreaming to be a Senior Backend Developer</li>
+  <li>💻 Always in search of new knowledge and tools</li>
+  </ul
   </p>
 </div>
 
