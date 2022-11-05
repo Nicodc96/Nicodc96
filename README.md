@@ -4,7 +4,7 @@
   <p align="left">I'm a programming student, i'm 26 years old and love computing world.</p>
   <p>
   <ul align="left">
-  <li>🌱 I’m currently learning FrontEnd tools & Node.js on UTN FRA</li>
+  <li>🚀 I’m currently learning FrontEnd tools & Node.js on UTN FRA</li>
   <li>🧐 Dreaming to be a Senior Backend Developer</li>
   <li>💻 Always in search of new knowledge and tools</li>
   </ul
