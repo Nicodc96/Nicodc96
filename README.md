@@ -1,7 +1,7 @@
 
 <div align="center">
   <h2>Hello World! I'm <a href="http://github.com/Nicodc96">Nicolás.</a> Welcome!</h2>
-  <p align="left">I'm a programming student, i'm 26 years old and love computing world.</p>
+  <p align="left">I'm a programming student, i'm 27 years old and love computing world.</p>
   <p>
   <ul align="left">
   <li>🚀 Currently learning FrontEnd tools & Node.js on UTN FRA</li>
