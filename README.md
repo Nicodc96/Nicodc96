@@ -1,25 +1,27 @@
 
 <div align="center">
-  <h2>Hello World! I'm <a href="http://github.com/Nicodc96">Nicolás.</a> Welcome!</h2>
-  <p align="left">I'm a programming student, i'm 27 years old and love computing world.</p>
-  <p>
-  <ul align="left">
-  <li>🚀 Currently learning FrontEnd tools & Node.js on UTN FRA</li>
-  <li>🧐 Dreaming to be a Senior Backend Developer</li>
-  <li>💻 Always in search of new knowledge and tools</li>
-  </ul
-  </p>
+  <h2>Hello World! I'm <a href="http://github.com/Nicodc96">Nicolás 🧐</a></h2>
 </div>
+
+I'm a programming student, i'm 27 years old and i have been learning to code for the last 3 years. I start learned C language to know all about basic coding, then i learned about object oriented programming, basic front-end technologies and some back-end tools to build my own APIs. Now i'm still learning and improving my current skills, also searching my first job IT!
+
+* 🌍  I'm based in **Buenos Aires, Argentina**.
+* 🧠  I'm currently learning Node.js, Sequelize and Front-end tools on UTN Fra, Avellaneda.
+* ✉️  You can contact me at [diaznicox96@gmail.com](mailto:diaznicox96@gmail.com)
+* 🧐  Dreaming to be a Senior Backend Developer
+* 💻  Always in search of new knowledge and tools
+* ⚡  I'm also like videogames, feel free to add me in **Steam**!
 
 <div>
 <h2 align="center">Social networks & Contact</h2>
   <p align="center">
-    <a href="https://www.linkedin.com/in/lautarondiaz/"><img src="https://i.ibb.co/mvxLdDX/linkedin.png" widht="36px" height="36px"/></a>
-    <a href="https://www.instagram.com/nikofrkz/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" widht="36px" height="36px"/></a>
-    <a href="http://steamcommunity.com/id/nikolaizq/"><img src="https://i.ibb.co/C9SCxfg/steam.png" widht="36px" height="36px"/></a>
-    <a href="https://open.spotify.com/user/nikozq"><img src="https://i.ibb.co/DpRhGHC/spotify-logo-png-7053.png" widht="36px" height="36px"/></a>
-    <a href="https://discordapp.com/users/371068600146198528"><img src="https://i.ibb.co/n1YcSv4/discord.png" widht="36px" height="36px"/></a>
-    <a href="mailto:diaznicox96@gmail.com"><img src="https://i.ibb.co/vmd2Fff/gmail-logo.png" widht="36px" height="36px"/></a>
+    <a href="https://www.dev.to/nicodc96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="36" height="36" /></a>
+    <a href="https://www.linkedin.com/in/lautarondiaz/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36p" height="36p"/></a>
+    <a href="https://www.instagram.com/nikofrkz/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" widht="36px" height="36px"/></a>
+    <a href="http://steamcommunity.com/id/nikolaizq/"><img src="https://i.ibb.co/C9SCxfg/steam.png" width="36p" height="36p"/></a>
+    <a href="https://open.spotify.com/user/nikozq"><img src="https://i.ibb.co/DpRhGHC/spotify-logo-png-7053.png" width="36p" height="36p"/></a>
+    <a href="https://discordapp.com/users/371068600146198528"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36p" height="36p"/></a>
+    <a href="mailto:diaznicox96@gmail.com"><img src="https://i.ibb.co/vmd2Fff/gmail-logo.png" widht="36p" height="36p"/></a>
   </p>
 </div>
 
@@ -47,7 +49,9 @@
 </div>
 
 <div align="center">
-  <h2 align="center">Github Statistics</h2>
-  <p><a href="https://github.com/Nicodc96/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicodc96"/></a></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=Nicodc96"/></p>  
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Nicodc96"><img src="https://github-readme-stats.vercel.app/api?username=Nicodc96&show_icons=true&hide=stars,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nicodc96's GitHub stats" /></a>
+
+<a href="http://www.github.com/Nicodc96"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicodc96&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
