@@ -15,13 +15,13 @@ I'm a programming student, i'm 27 years old and i have been learning to code for
 <div>
 <h2 align="center">Social networks & Contact</h2>
   <p align="center">
-    <a href="https://www.dev.to/nicodc96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="36" height="36" /></a>
-    <a href="https://www.linkedin.com/in/lautarondiaz/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36p" height="36p"/></a>
+    <a href="https://www.dev.to/nicodc96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="36x" height="36x" /></a>
+    <a href="https://www.linkedin.com/in/lautarondiaz/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36px" height="36px"/></a>
     <a href="https://www.instagram.com/nikofrkz/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" widht="36px" height="36px"/></a>
-    <a href="http://steamcommunity.com/id/nikolaizq/"><img src="https://i.ibb.co/C9SCxfg/steam.png" width="36p" height="36p"/></a>
-    <a href="https://open.spotify.com/user/nikozq"><img src="https://i.ibb.co/DpRhGHC/spotify-logo-png-7053.png" width="36p" height="36p"/></a>
-    <a href="https://discordapp.com/users/371068600146198528"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36p" height="36p"/></a>
-    <a href="mailto:diaznicox96@gmail.com"><img src="https://i.ibb.co/vmd2Fff/gmail-logo.png" widht="36p" height="36p"/></a>
+    <a href="http://steamcommunity.com/id/nikolaizq/"><img src="https://i.ibb.co/C9SCxfg/steam.png" width="36px" height="36px"/></a>
+    <a href="https://open.spotify.com/user/nikozq"><img src="https://i.ibb.co/DpRhGHC/spotify-logo-png-7053.png" width="36px" height="36px"/></a>
+    <a href="https://discordapp.com/users/371068600146198528"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36px" height="36px"/></a>
+    <a href="mailto:diaznicox96@gmail.com"><img src="https://i.ibb.co/vmd2Fff/gmail-logo.png" width="36px" height="36px"/></a>
   </p>
 </div>
 
