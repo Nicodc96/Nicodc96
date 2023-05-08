@@ -6,7 +6,7 @@
 I'm a programming student, i'm 27 years old and i have been learning to code for the last 3 years. I start learned C language to know all about basic coding, then i learned about object oriented programming, basic front-end technologies and some back-end tools to build my own APIs. Now i'm still learning and improving my current skills, also searching my first job IT!
 
 * 🌍  I'm based in **Buenos Aires, Argentina**.
-* 🧠  I'm currently learning Node.js, Sequelize and Front-end tools on UTN Fra, Avellaneda.
+* 🧠  I'm currently learning Node.js and React 🚀
 * ✉️  You can contact me at [diaznicox96@gmail.com](mailto:diaznicox96@gmail.com)
 * 🧐  Dreaming to be a Senior Backend Developer
 * 💻  Always in search of new knowledge and tools
@@ -43,8 +43,7 @@ I'm a programming student, i'm 27 years old and i have been learning to code for
   <a href="https://www.w3schools.com/c/index.php/"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40px" height="40px"></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40px" height="40px"/></a>
   <a href="https://www.php.net/manual/es/index.php"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px" height="40px"/></a>
-    <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45px" height="40px"/></a>
-    
+  <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45px" height="40px"/></a>
   </p>
 </div>
 
