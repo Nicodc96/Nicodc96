@@ -21,7 +21,7 @@ I'm a programming student, i'm 27 years old and i have been learning to code for
     <a href="http://steamcommunity.com/id/nikolaizq/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/C9SCxfg/steam.png" width="36px"/></a>
     <a href="https://open.spotify.com/user/nikozq" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/DpRhGHC/spotify-logo-png-7053.png" width="36px"/></a>
     <a href="https://discordapp.com/users/371068600146198528" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36px"/></a>
-    <a href="mailto:diaznicox96@gmail.com" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/vmd2Fff/gmail-logo.png" width="36px"/></a>
+    <a href="mailto:diaznicox96@gmail.com" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/vmd2Fff/gmail-logo.png" width="44px"/></a>
   </div>
 </div>
 
@@ -36,6 +36,9 @@ I'm a programming student, i'm 27 years old and i have been learning to code for
     <a href="https://www.postman.com/"><img src="https://i.ibb.co/3CvzcQ3/postman-icon.png" width="40px" height="40px"/></a>
     <a href="https://visualstudio.microsoft.com/es/"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" height="40px"/></a>
     <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="40px"/></a>
+    <a href="https://react.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40px"/></a>
+    <a href="https://expressjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="40px"/></a>
+    <a href="https://firebase.google.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="40px"/></a>
   </p>
   
   <h2 align="center">Languages</h2>
