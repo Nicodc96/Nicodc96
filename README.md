@@ -3,14 +3,14 @@
   <h2>Hello World! I'm <a href="http://github.com/Nicodc96">Nicolás 🧐</a></h2>
 </div>
 
-I'm a programming student, i'm 27 years old and i have been learning to code for the last 3 years. I start learned C language to know all about basic coding, then i learned about object oriented programming, basic front-end technologies and some back-end tools to build my own APIs. Now i'm still learning and improving my current skills, also searching my first job IT!
+I'm a programming student, I'm 27 years old and I have been learning to code for the last 3 years. I start learning C language to know all about basic coding, then I learned about object oriented programming, basic front-end technologies and some back-end tools to build my own APIs. Now I'm still learning and improving my current skills, aswell searching my first IT job.
 
 * 🌍  I'm based in **Buenos Aires, Argentina**.
-* 🧠  I'm currently learning Node.js and React 🚀
-* ✉️  You can contact me at [diaznicox96@gmail.com](mailto:diaznicox96@gmail.com)
+* 🧠  Currently learning React and Next.js 🚀
+* ✉️  Contact me at [diaznicox96@gmail.com](mailto:diaznicox96@gmail.com)
 * 🧐  Dreaming to be a Senior Backend Developer
 * 💻  Always in search of new knowledge and tools
-* ⚡  I'm also like videogames, feel free to add me in **Steam**!
+* ⚡  I love videogames, feel free to add me in [**Steam**](http://steamcommunity.com/id/nikolaizq/)!
 
 <div>
 <h2 align="center">Social networks & Contact</h2>
