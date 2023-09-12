@@ -6,7 +6,7 @@
 I'm a programming student, I'm 27 years old and I have been learning to code for the last 3 years. I start learning C language to know all about basic coding, then I learned about object oriented programming, basic front-end technologies and some back-end tools to build my own APIs. Now I'm still learning and improving my current skills, aswell searching my first IT job.
 
 * 🌍  I'm based in **Buenos Aires, Argentina**.
-* 🧠  Currently learning React and Next.js 🚀
+* 🧠  Currently learning Java ☕
 * ✉️  Contact me at [diaznicox96@gmail.com](mailto:diaznicox96@gmail.com)
 * 🧐  Dreaming to be a Senior Backend Developer
 * 💻  Always in search of new knowledge and tools
