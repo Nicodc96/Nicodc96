@@ -8,7 +8,7 @@ I'm a programming student, I'm 27 years old and I have been learning to code for
 * 🌍  I'm based in **Buenos Aires, Argentina**.
 * 🧠  Currently learning Java ☕
 * ✉️  Contact me at [diaznicox96@gmail.com](mailto:diaznicox96@gmail.com)
-* 🧐  Dreaming to be a Senior Backend Developer
+* 🧐  Working to become a senior backend developer
 * 💻  Always in search of new knowledge and tools
 * ⚡  I love videogames, feel free to add me in [**Steam**](http://steamcommunity.com/id/nikolaizq/)!
 
