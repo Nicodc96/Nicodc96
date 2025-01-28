@@ -3,10 +3,10 @@
   <h2>Hello World! I'm <a href="http://github.com/Nicodc96">Nicolás 🧐</a></h2>
 </div>
 
-I'm a programming student, I'm 28 years old and I have been learning to code for the last 3 years. I start learning C language to know all about basic coding, then I learned about object oriented programming, basic front-end technologies and some back-end tools to build my own APIs. Now I'm still learning and improving my current skills, aswell searching my first IT job.
+Developer, nerd, anime-lover, gamer and technology enthusiast.
 
 * 🌍  I'm based in **Buenos Aires, Argentina**.
-* 🧠  Currently learning Java ☕
+* 🧠  Currently learning Backend developing w/ Java ☕
 * ✉️  Contact me at [diaznicox96@gmail.com](mailto:diaznicox96@gmail.com)
 * 🧐  Working to become a senior backend developer
 * 💻  Always in search of new knowledge and tools
