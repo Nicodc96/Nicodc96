@@ -6,7 +6,7 @@
 Developer, nerd, anime-lover, gamer and technology enthusiast.
 
 * 🌍  I'm based in **Buenos Aires, Argentina**.
-* 🧠  Currently learning Backend developing w/ Java ☕
+* 🧠  Currently learning Backend development w/ Java ☕
 * ✉️  Contact me at [diaznicox96@gmail.com](mailto:diaznicox96@gmail.com)
 * 🧐  Working to become a senior backend developer
 * 💻  Always in search of new knowledge and tools
