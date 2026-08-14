@@ -15,11 +15,8 @@ Developer, nerd, anime-lover, gamer and technology enthusiast.
 <div>
 <h2 align="center">Social networks & Contact</h2>
   <div align="center">
-    <a href="https://www.dev.to/nicodc96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="36px"/></a>
     <a href="https://www.linkedin.com/in/lautarondiaz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36px"/></a>
-    <a href="https://www.instagram.com/nikofrkz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" widht="36px" height="36px"/></a>
     <a href="http://steamcommunity.com/id/nikolaizq/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/C9SCxfg/steam.png" width="36px"/></a>
-    <a href="https://open.spotify.com/user/nikozq" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/DpRhGHC/spotify-logo-png-7053.png" width="36px"/></a>
     <a href="https://discordapp.com/users/371068600146198528" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36px"/></a>
     <a href="mailto:diaznicox96@gmail.com" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/vmd2Fff/gmail-logo.png" width="44px"/></a>
   </div>
