@@ -50,10 +50,12 @@ Developer, nerd, anime-lover, gamer and technology enthusiast.
   </p>
 </div>
 
+<!--
 <div align="center">
   <b>My GitHub Stats</b>
 
   ![Nicodc96's Stats](https://github-readme-stats.vercel.app/api?username=nicodc96&show_icons=true&theme=tokyonight&hide=contribs)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicodc96&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</div> 
+-->
